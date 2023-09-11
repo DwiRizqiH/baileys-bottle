@@ -17,14 +17,13 @@
     "lib/**/*"
   ],
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.0.1",
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
     "typeorm": "0.3.17"
   },
   "devDependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@types/ws": "^8.5.3",
     "qrcode-terminal": "^0.12.0",
-    "sqlite3": "^5.0.2",
     "typescript": "4.5.2",
     "ts-node": "^10.9.1"
   },
