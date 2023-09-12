@@ -18,7 +18,7 @@
   ],
   "dependencies": {
     "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
-    "typeorm": "0.3.17"
+    "typeorm": "0.3.7"
   },
   "devDependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
